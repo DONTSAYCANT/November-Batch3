@@ -1,0 +1,29 @@
+Task1:
+
+a = [10,12,15,16,18,19,0,3,0]
+
+The list of even numbers are [10,12,16,18]
+The List of odd numbers are [15,19,3]
+The number of zeros in the list 2
+
+Task2:
+
+#Get one integer from user
+#26
+
+multiple of 3 ==> Fizz
+multiple of 5  ==> buzz
+multiple of 3 and 5 ==> Fizzbuzz
+not a multiple ==> None
+
+#0  None
+#1  None
+#2  None
+#3  Fizz
+#5  Buzz
+#15 Fizzbuzz
+
+Task3:
+
+#Get one number from user
+#Check whether prime or non prime
