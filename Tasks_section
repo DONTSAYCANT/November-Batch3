@@ -27,3 +27,62 @@ Task3:
 
 #Get one number from user
 #Check whether prime or non prime
+
+
+October 26:
+
+Task1:
+
+Get two strings from user  example: "java" "groovy"
+   java6groovy4
+   
+   "pi" "mathematics"  ===> pi15mahematics2
+   
+Task2:
+
+Prime number 
+Write a program to check whether a number is prime or not using function
+
+
+Task3:
+
+List
+
+#Create an empty list (two ways)
+#Concatenate with [5,6,7,8]
+#add 8,9,1,5,6,7,8,1 elements to that list
+#Find frequency of 8 (count)
+#find the mean of the list
+#find sum (List) + min + Max 
+#Find median of the list
+#remove duplicates from list and give output in the format of tuple
+
+
+
+a = [1,2,3,4,[100,101,102,"Computer_science"],200,203]
+
+Extract
+#science
+#computer
+
+Task4
+a = [1,2,3,4,[101,102,103,[201,202,[999]], 666, 777]]
+
+Extract
+#666
+#201
+#102
+#999
+#777
+
+
+Task5:
+
+Li1 = [2,3,"python","hello",4,5,0]  
+
+Extract
+#ll
+#thon
+
+
+
