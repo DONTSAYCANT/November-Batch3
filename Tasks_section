@@ -114,6 +114,11 @@ Get one number from user
 9 ==> [1,3,9]
 20 ===> [1,2,4,5,10,20]
 
+Task5:
+
+Collect two strings from user
+Check whether both are anagrams or not
+
 
 
 
