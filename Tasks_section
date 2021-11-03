@@ -138,6 +138,238 @@ print(type(a))
 #4
 #105
 
+November 3:
+
+
+Task1:
+
+#Using Range function  print multiples of 5 from 0 to 75
+#Using Range function  print multiples of 8 from 0 to 72
+
+#Using Range function  print multiples of 5 from 75 to 0
+#Using Range function  print multiples of 8 from 96 to 72
+
+
+https://www.w3schools.com/python/python_for_loops.asp
+https://www.w3schools.com/python/python_while_loops.asp
+https://github.com/DONTSAYCANT/python_may_june_batch/blob/main/Loops%20.ipynb
+
+Task2:
+
+Get list from user
+
+Multiple index with list value 
+
+[2,5,6,8,12,13]
+
+2*0 + 5*1 + 6*2 + 8*3 + 12*4 + 13*5 ==> 
+
+[2,5,6,8,12,13,2,2,0]
+
+
+Task3:
+
+Get a dynamic list from user
+
+Task4:
+
+Get a dynamic dictionary from user
+
+clues Task3 and Task4
+#1. get number of elements from user
+#Loop through range
+#append to list/dictionary
+
+
+a = int(input("enter number of elements"))
+
+for i in range(a):
+    val = int(input("enter element"))
+
+
+
+    
+
+September 10:
+
+Task1:
+
+Study range function and for loop properly
+
+https://www.w3schools.com/python/python_for_loops.asp
+https://www.w3schools.com/python/python_while_loops.asp
+https://github.com/DONTSAYCANT/python_may_june_batch/blob/main/Loops%20.ipynb
+
+print(list(range(5)))
+print(list(range(1,5)))
+print(list(range(5,20)))
+print(list(range(-5,5)))
+print(list(range(10,100,10)))
+print(list(range(10,0,-1)))
+print(list(range(-5,5,3)))
+print(list(range(10,100,5)))
+print(list(range(10,0,-2)))
+
+Task2:
+
+Get list of strings from user
+separate it in to two lists with vowles and non vowels 
+
+["hi","ggg","hello","ravi","bbbb","zzz","yyyy"]
+
+No of elements with vowel: 4
+No of elements without vowel: 3
+
+
+Task3:
+
+Get list of strings from user
+separate it two list (with same first letter and last letter and othr)
+
+["garg", "kohli", "rohitr", "ishan", "dhoni","dad"]
+
+No of elements with same first letter and last letter: 3
+Other List: 3
+
+
+Task4:
+
+Get a list of numbers from user
+separate it in to even number and odd number (you should create only one empty list)
+
+
+Task5: 
+
+fibonacci series
+
+0,1,1,2,3,5,8,13,21,34,55,89,144
+
+get one input from user: 5
+
+[0,1,1,2,3]
+3
+
+user: 8
+
+[0,1,1,2,3,5,8,13]
+13
+
+[0,1,1,2,3]
+
+Task6:
+
+No range function  
+
+Multiples of 10 between 12 to 100 using while loop
+Multiples of 8 between 120 to 20 using while loop
+Multiples of 5 between 9 to 40 using while loop
+Multiples of 8 between 300 to 200 using while loop
+
+Task7:
+
+#print all elements in the list using while loop
+
+example for loop
+
+for i in Li1:
+    print(i)
+    
+1. calculate len
+2. decrement one by one in while
+    
+Task8:
+
+check whether a number is armstrong or not using while loop
+Dont convert number to string 
+
+Task9:
+
+#Get one dynamic list from user
+
+#10 [0,6,5,-3,4,5,3,-2,4,0]
+
+#count ==> no of zeros, no of positive values, no of negative values, no of odd numbers, number of even numbers
+#print the elements
+
+
+Task10:
+
+#two numbers from user 2 25
+#2 
+#3  fizz
+#4
+#15
+#16
+#25
+
+#multiple of 3 ==> fizz
+#multiple of 5 ==> buzz
+#multiple of 15 ==> fizzbuzz
+#Others ===> No fizz and buzz
+
+#Including last number
+
+==========================================================================
+
+October 11:
+
+
+Task11:
+
+Factorial number
+
+5 ==> 5 * 4 * 3* 2 * 1
+120
+
+Task12:
+
+Get one number from user
+Sum of digits
+
+325 ==> 10
+
+Task13:
+
+sum of digits till it become single digit
+
+Task14:
+
+Product of digits
+no need to convert to string
+
+927 ==>  9* 2* 7 ==> 126
+
+Task15:
+
+#multiples of a number 
+
+#Get one integer from the user
+#9 ==> 1,3,9
+#11 ==> 1,11
+#25 ==> 1,5,25
+#16 ===> 1,2,4,8,16
+
+Task16:
+
+#Anagram ===> check whether given string is anagram or no
+
+#Two input strings
+#pot
+#top
+
+#top
+#pto
+
+
+Task17:
+
+get list of strings from user
+categorize it in to even/odd length list using single loop
+
+Task18:
+
+Program to check a number is prime or no
+
 
 
 
