@@ -1,1 +1,46 @@
+Resume Generator: (File handling)
+
+1. Introduction section
+  Name
+  email id
+  mobile number
+  linked id
+  git hub id
+  two lines
+  
+  
+2. Education
+  BE 
+  
+3. Skill sets
+  
+
+4. Technical projects
+
+5. Certification
+
+
+
+i ) <get it from user using input>
+ii) get a json file from user
+
+
+wiki pedia parser: (webscrapping, urllib, request, re)
+
+1. collect one page from user
+2. extract the page infromation
+  https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+  
+(cricketer)  
+  
+3. Name
+  debut
+  (10)
+  
+  collect all the general pattern
+  
+json file ===> 
+  
+
+
 
